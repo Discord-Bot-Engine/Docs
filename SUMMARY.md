@@ -22,6 +22,7 @@
 * [Continue](actions/continue.md)
 * [Convert Text To List](actions/convert-text-to-list.md)
 * [Create Channel](actions/create-channel.md)
+* [Create Forum Thread](actions/create-forum-thread.md)
 * [Create Thread](actions/create-thread.md)
 * [Defer Interaction](actions/defer-interaction.md)
 * [Delete Channel](actions/delete-channel.md)
