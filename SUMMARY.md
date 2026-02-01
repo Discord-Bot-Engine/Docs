@@ -66,6 +66,7 @@
 * [Set Channel Category](actions/set-channel-category.md)
 * [Set Channel Name](actions/set-channel-name.md)
 * [Set Channel Permissions](actions/set-channel-permissions.md)
+* [Set Cooldown](actions/set-cooldown.md)
 * [Set Data](actions/set-data.md)
 * [Set Member Data](actions/set-member-data.md)
 * [Set Presence](actions/set-presence.md)
@@ -119,6 +120,7 @@
 * [Store XP Card As WebP](actions/store-xp-card-as-webp.md)
 * [Switch Case](actions/switch-case.md)
 * [Timeout Member](actions/timeout-member.md)
+* [Try Catch](actions/try-catch.md)
 * [Unban User](actions/unban-user.md)
 * [Wait](actions/wait.md)
 

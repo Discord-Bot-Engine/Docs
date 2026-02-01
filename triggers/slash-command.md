@@ -5,17 +5,16 @@
 **Inputs:**
 
 * Description
+* Requires permissions?
+* Required permissions
 * Store interaction in variable
 * Store user in variable
 * Store member in variable
 * Store channel in variable
 * Store server in variable
-* Options list with:
-  * Name
-  * Description
-  * Type (Attachment, Boolean, Channel, Integer, Mentionable, Number, Role, Text, User)
-  * Is Required? (True or False)
-  * Store value in variable
+* Options
+* Translations (for name)
+* Translations (for description)
 
 **Variable Types:**&#x20;
 
