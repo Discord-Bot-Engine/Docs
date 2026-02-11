@@ -1,34 +1,14 @@
-# Slash Command
+# Scheduled Event Changed
 
-**Description:** Trigger when a slash command with the name matching the trigger is used.
+**Description:** Trigger when a scheduled event is changed.
 
 **Inputs:**
 
-* Description
-* Requires permissions?
-* Required permissions
-* Store interaction in variable
-* Store user in variable
-* Store member in variable
-* Store channel in variable
-* Store server in variable
-* Options
-* Translations (for name)
-* Translations (for description)
+* Store old event in variable
+* Store new event in variable
 
-**Variable Types:**&#x20;
+**Variable Types:**
 
-* Command Interaction
-* User
-* Member
-* Server
-* Attachment
-* Boolean
-* Channel
-* Mentionable
-* Number
-* Role
-* Text
-* User
+* Scheduled Event
 
-**Behaviour:** Registers the slash command with specified options, stores the interaction and command option values into variables on interaction, then continues with the next actions.
+**Behaviour:** Stores both the previous version and the updated version of the scheduled event in the selected variables. Then continues with the next actions.
