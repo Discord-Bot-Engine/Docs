@@ -7,7 +7,7 @@
 * HTML text
 * Width
 * Height
-* Duration in seconds
+* Duration (in seconds)
 * Store webp buffer in variable
 
 **Outputs:**
