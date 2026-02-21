@@ -118,6 +118,7 @@
 * [Store Stage Channel Info](actions/store-stage-channel-info.md)
 * [Store Text Channel Info](actions/store-text-channel-info.md)
 * [Store Text](actions/store-text.md)
+* [Replace Text](actions/store-text-1.md)
 * [Store Thread Channel Info](actions/store-thread-channel-info.md)
 * [Store User As Member](actions/store-user-as-member.md)
 * [Store User Info](actions/store-user-info.md)
