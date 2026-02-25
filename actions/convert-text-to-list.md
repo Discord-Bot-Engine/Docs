@@ -1,12 +1,12 @@
-# Convert Text To List
+# Convert List To Text
 
-**Description:** Converts a text string into a list by splitting with a separator.
+**Description:** Converts a list into a text string by joining with a separator.
 
 **Inputs:**
 
-* Text
+* List
 * Separator
-* Store list in variable
+* Store text in variable
 
 **Outputs:**
 
@@ -15,5 +15,6 @@
 **Variable Types:**
 
 * List
+* Text
 
-**Behaviour:** Splits the input text by the separator and stores the resulting array in the specified list variable.
+**Behaviour:** Joins the input list by the separator and stores the resulting text in the specified text variable.
