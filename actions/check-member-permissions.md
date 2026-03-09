@@ -15,6 +15,5 @@
 **Variable Types:**
 
 * Member
-* Server
 
 **Behaviour:** Checks if the member has all specified permissions and proceeds through "true" if so, otherwise "false".
