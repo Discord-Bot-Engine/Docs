@@ -18,6 +18,7 @@
 * [Ban Member](actions/ban-member.md)
 * [Break](actions/break.md)
 * [Call Function](actions/call-function.md)
+* [Check If Member Has Role](actions/check-if-member-has-role.md)
 * [Check If Variable Exists](actions/check-if-variable-exists.md)
 * [Check Member Permissions](actions/check-member-permissions.md)
 * [Check Mentionable Type](actions/check-mentionable-type.md)
