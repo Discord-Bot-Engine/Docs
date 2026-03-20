@@ -21,6 +21,6 @@
 * Boolean
 * Date
 * List
-* Guild
+* Server
 
 **Behaviour:** Retrieves selected info from the message object and stores it. Content includes text and component extracted text.
