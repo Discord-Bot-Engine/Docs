@@ -165,5 +165,6 @@
 ## EXTENSIONS
 
 * [Auto Moderation](extensions/auto-moderation.md)
+* [Generate Triggers](extensions/generate-triggers.md)
 * [Package Manager](extensions/package-manager.md)
 * [XP System](extensions/xp-system.md)
