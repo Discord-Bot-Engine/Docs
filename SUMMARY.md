@@ -3,6 +3,7 @@
 ## GENERAL
 
 * [Bot Creation](README.md)
+* [Solving Errors](general/readme-1.md)
 * [Editor Keybinds](general/editor-keybinds.md)
 * [Hosting](general/hosting.md)
 
