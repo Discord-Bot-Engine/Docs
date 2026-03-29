@@ -10,6 +10,7 @@
 ## TUTORIALS
 
 * [Modals](tutorials/modals.md)
+* [Buttons](tutorials/buttons.md)
 
 ## ACTIONS
 
