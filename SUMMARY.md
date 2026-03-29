@@ -7,6 +7,10 @@
 * [Editor Keybinds](general/editor-keybinds.md)
 * [Hosting](general/hosting.md)
 
+## TUTORIALS
+
+* [Modals](tutorials/modals.md)
+
 ## ACTIONS
 
 * [Add Container To Image Builder](actions/add-element-to-list.md)
