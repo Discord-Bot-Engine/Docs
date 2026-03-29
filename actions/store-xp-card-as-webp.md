@@ -5,9 +5,9 @@
 **Inputs:**
 
 * Member
-* XP Member Data Field
-* Max XP Member Data Field
-* Level Member Data Field
+* XP member data field
+* Max XP member data field
+* Level member data field
 * Store webp buffer in variable
 
 **Outputs:**
