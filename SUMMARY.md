@@ -13,6 +13,7 @@
 * [Buttons](tutorials/buttons.md)
 * [Animated Images + Functions](tutorials/animated-images-+-functions.md)
 * [XP System](tutorials/xp-system.md)
+* [Web APIs](tutorials/web-apis.md)
 
 ## ACTIONS
 
