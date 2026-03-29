@@ -11,6 +11,7 @@
 
 * [Modals](tutorials/modals.md)
 * [Buttons](tutorials/buttons.md)
+* [Animated Images + Functions](tutorials/animated-images-+-functions.md)
 
 ## ACTIONS
 
