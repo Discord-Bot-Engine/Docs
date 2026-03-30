@@ -1,11 +1,18 @@
-# Add Element To List
+# Add Image To Image Builder
 
-**Description:** Adds an element to a list.
+**Description:**\
+Creates an image inside an image builder.
 
 **Inputs:**
 
-* List
-* Element
+* Image builder
+* Image URL
+* X offset
+* Y offset
+* Width
+* Height
+* Roundness&#x20;
+* Animation
 
 **Outputs:**
 
@@ -13,6 +20,8 @@
 
 **Variable Types:**
 
-* List
+* Image Builder
 
-**Behaviour:** Takes a list variable and an element variable, appends the element to the list, then continues to the next action.
+**Behaviour:**
+
+Adds an image to the selected image builder, then proceeds with the next actions.

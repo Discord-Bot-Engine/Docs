@@ -17,12 +17,11 @@
 
 ## ACTIONS
 
-* [Add Container To Image Builder](actions/add-element-to-list.md)
-* [Add Element To List](actions/add-element-to-list-1.md)
-* [Add Image To Image Builder](actions/add-element-to-list-2.md)
+* [Add Element To List](actions/add-element-to-list.md)
+* [Add Image To Image Builder](actions/add-element-to-list-1.md)
 * [Add Member To Thread](actions/add-member-to-thread.md)
 * [Add Role To Member](actions/add-role-to-member.md)
-* [Add Text To Image Builder](actions/add-element-to-list-3.md)
+* [Add Text To Image Builder](actions/add-element-to-list-2.md)
 * [Archive Thread](actions/archive-thread.md)
 * [Ban Member](actions/ban-member.md)
 * [Break](actions/break.md)
@@ -109,9 +108,8 @@
 * [Store Date Info](actions/store-date-info.md)
 * [Store Element From List](actions/store-element-from-list.md)
 * [Store File As Buffer](actions/store-file-as-buffer.md)
-* [Store HTML As WebP](actions/store-html-as-webp.md)
-* [Store Image Builder](actions/store-html-as-webp-1.md)
-* [Store Image Builder As WebP](actions/store-html-as-webp-2.md)
+* [Store Image Builder](actions/store-html-as-webp.md)
+* [Store Image Builder As WebP](actions/store-html-as-webp-1.md)
 * [Store List Size](actions/store-list-size.md)
 * [Store List](actions/store-list.md)
 * [Store Member As User](actions/store-member-as-user.md)

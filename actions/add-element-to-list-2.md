@@ -1,17 +1,18 @@
-# Add Image To Image Builder
+# Add Text To Image Builder
 
 **Description:**\
-Creates an image inside an image builder.
+Adds text inside an image builder.
 
 **Inputs:**
 
-* Image builder or container
-* Image URL
+* Image builder
+* Text
 * X offset
 * Y offset
-* Width
-* Height
-* Roundness&#x20;
+* Align to
+* Font family
+* Font size
+* Font color&#x20;
 * Animation
 
 **Outputs:**
@@ -21,8 +22,7 @@ Creates an image inside an image builder.
 **Variable Types:**
 
 * Image Builder
-* Container
 
 **Behaviour:**
 
-Adds an image to the selected image builder or container, then proceeds with the next actions.
+Adds text to the selected image builder, then proceeds with the next actions.

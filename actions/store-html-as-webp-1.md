@@ -1,13 +1,11 @@
-# Store Image Builder
+# Store Image Builder As WebP
 
-**Description:** Stores an image builder.
+**Description:** Stores an image builder as WebP buffer.
 
 **Inputs:**
 
-* Background URL
-* Width
-* Height
-* Store image builder in variable
+* Image builder
+* Store webp buffer in variable
 
 **Outputs:**
 
@@ -15,6 +13,6 @@
 
 **Variable Types:**
 
-* Image Builder
+* Image Builder, Buffer
 
-**Behaviour:** Creates an image builder, stores it in the provided variable, then proceeds with the next actions.
+**Behaviour:** Stores the selected image builder as a WebP buffer, then proceeds with the next actions.

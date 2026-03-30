@@ -1,14 +1,13 @@
-# Store HTML As WebP
+# Store Image Builder
 
-**Description:** Renders provided HTML to a WebP animation and stores as buffer.
+**Description:** Stores an image builder.
 
 **Inputs:**
 
-* HTML text
+* Background URL
 * Width
 * Height
-* Duration (in seconds)
-* Store webp buffer in variable
+* Store image builder in variable
 
 **Outputs:**
 
@@ -16,6 +15,6 @@
 
 **Variable Types:**
 
-* Buffer
+* Image Builder
 
-**Behaviour:** Uses Puppeteer to render HTML, records the animation for the duration specified, converts the video to WebP, stores the buffer.
+**Behaviour:** Creates an image builder, stores it in the provided variable, then proceeds with the next actions.

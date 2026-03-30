@@ -1,25 +1,11 @@
-# Add Container To Image Builder
+# Add Element To List
 
-**Description:**\
-Creates a container inside an image builder.
+**Description:** Adds an element to a list.
 
 **Inputs:**
 
-* Image builder or container
-* X offset
-* Y offset
-* Background URL
-* Width
-* Height
-* Orientation&#x20;
-* Left padding
-* Right padding&#x20;
-* Top padding&#x20;
-* Bottom padding
-* Gap&#x20;
-* Roundness&#x20;
-* Animation&#x20;
-* Store container in variable
+* List
+* Element
 
 **Outputs:**
 
@@ -27,9 +13,6 @@ Creates a container inside an image builder.
 
 **Variable Types:**
 
-* Image Builder
-* Container
+* List
 
-**Behaviour:**
-
-Adds a container to the selected image builder or container, stores it in the provided variable, then proceeds with the next actions.
+**Behaviour:** Takes a list variable and an element variable, appends the element to the list, then continues to the next action.
