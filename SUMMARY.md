@@ -14,6 +14,7 @@
 * [Animated Images + Functions](tutorials/animated-images-+-functions.md)
 * [XP System](tutorials/xp-system.md)
 * [Web APIs](tutorials/web-apis.md)
+* [Ticket System](tutorials/ticket-system.md)
 
 ## ACTIONS
 
