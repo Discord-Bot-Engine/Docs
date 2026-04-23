@@ -15,6 +15,7 @@
 * [XP System](tutorials/xp-system.md)
 * [Web APIs](tutorials/web-apis.md)
 * [Ticket System](tutorials/ticket-system.md)
+* [Advanced Purge Command](tutorials/advanced-purge-command.md)
 
 ## ACTIONS
 
